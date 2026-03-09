@@ -20,6 +20,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-09-Rust-언어-특징](python/2026-03-09-Rust-언어-특징.md)
+
 - [2026-03-09-Java-AI-역할](python/2026-03-09-Java-AI-역할.md)
 
 - [2026-03-09-Java-AI-Role-in-AI-Era](python/2026-03-09-Java-AI-Role-in-AI-Era.md)
