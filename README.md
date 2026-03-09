@@ -34,6 +34,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-09-What-Role-Does-Java-Play-in-the-AI-Era](ai-agent/2026-03-09-What-Role-Does-Java-Play-in-the-AI-Era.md)
+
 - [2026-03-08-Kisssoft-웹서비스-기술스택](ai-agent/2026-03-08-Kisssoft-웹서비스-기술스택.md)
 
 - [2026-03-08-Python-AI-Era](ai-agent/2026-03-08-Python-AI-Era.md)
