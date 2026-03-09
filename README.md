@@ -32,6 +32,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-08-AI-언어-중요성](ai-agent/2026-03-08-AI-언어-중요성.md)
+
 - [2026-03-08-모바일-앱-개발-기술-스택](ai-agent/2026-03-08-모바일-앱-개발-기술-스택.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
