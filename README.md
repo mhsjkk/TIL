@@ -20,6 +20,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-09-wttr-in-API를-이용한-날씨-조회](python/2026-03-09-wttr-in-API를-이용한-날씨-조회.md)
+
 - [2026-03-09-웹서비스-개발을-위한-필요-도구들](python/2026-03-09-웹서비스-개발을-위한-필요-도구들.md)
 
 - [2026-03-09-해스켈-모나드-개념-쉽게-이해하기](python/2026-03-09-해스켈-모나드-개념-쉽게-이해하기.md)
